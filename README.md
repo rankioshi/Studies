@@ -12,6 +12,8 @@ This repository contains my personal studies and implementations of classic algo
 - **Dijkstra's Algorithm (C):**  
   An efficient implementation of Dijkstra's shortest path algorithm in C. The code is structured for clarity and performance, suitable for understanding graph algorithms and their applications.
 
+  ![Dijkstra](https://media.discordapp.net/attachments/1229834827721605152/1371280097201618944/dijkstra.png?ex=68228f9c&is=68213e1c&hm=3811d0f4799636b12feba2358ee1ec5c42b8fd7592026ec088df9ede91222a1b&=&format=webp&quality=lossless)
+
 ## Purpose
 
 The main goal of this repository is to serve as a study resource for algorithms and data structures, with a focus on problems and solutions commonly encountered in technical interviews. More algorithms, data structures, and problem solutions will be added over time.
