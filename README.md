@@ -14,18 +14,8 @@ This repository contains my personal studies and implementations of classic algo
 
 The main goal of this repository is to serve as a study resource for algorithms and data structures, with a focus on problems and solutions commonly encountered in technical interviews. More algorithms, data structures, and problem solutions will be added over time.
 
-## How to Use
-
-- Browse the folders and files for code examples and explanations.
-- Each implementation includes comments and, where applicable, example usage.
-- Feel free to use, modify, or contribute to the code for your own learning or interview preparation.
-
 ## Future Plans
 
 - Add more algorithms in different languages (e.g., Java, C++).
 - Include problem-solving strategies and coding challenges.
 - Expand documentation and add more detailed explanations.
-
-## License
-
-This repository is open-source and available under the MIT License.
