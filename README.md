@@ -7,6 +7,8 @@ This repository contains my personal studies and implementations of classic algo
 - **AVL Tree (Python):**  
   An advanced implementation of AVL trees, a self-balancing binary search tree, written in Python. This code demonstrates insertion, deletion, and balancing operations, with comments and examples for learning purposes.
 
+  ![AVL](https://media.discordapp.net/attachments/1229834827721605152/1371269843491360889/maxresdefault.png?ex=6822860f&is=6821348f&hm=f4bb8a5feb2ca99cf731846ad54dd616bd286addaaccde7c2e81f0a3fca07888&=&format=webp&quality=lossless)
+
 - **Dijkstra's Algorithm (C):**  
   An efficient implementation of Dijkstra's shortest path algorithm in C. The code is structured for clarity and performance, suitable for understanding graph algorithms and their applications.
 
