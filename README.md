@@ -7,17 +7,17 @@ This repository contains my personal studies and implementations of classic algo
 - **AVL Tree (Python):**  
   An advanced implementation of AVL trees, a self-balancing binary search tree, written in Python. This code demonstrates insertion, deletion, and balancing operations, with comments and examples for learning purposes.
 
-  <img src="imgs/image1.png"/>
+  <img src="img/image1.png"/>
 
 - **Dijkstra's Algorithm (C):**  
   An efficient implementation of Dijkstra's shortest path algorithm in C. The code is structured for clarity and performance, suitable for understanding graph algorithms and their applications.
 
-  <img src="imgs/image2.png"/>
+  <img src="img/image2.png"/>
 
 - **Travelling Salesman Problem (TSP) in C:**
  It uses an adjacency matrix and edge list to represent the graph and attempts to find the optimal route with the lowest cost.
 
-<img src="imgs/image3.png"/>
+<img src="img/image3.png"/>
 
 ## Code Overview
 
